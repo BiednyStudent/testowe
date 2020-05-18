@@ -1,5 +1,5 @@
 #include <iostream>
 usign namespace std;
 int main(){
-	cout<<"Hello Wrold!";
+	cout<<"Lorem ipsum!";
 }
